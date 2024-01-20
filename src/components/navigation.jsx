@@ -12,7 +12,7 @@ export const Navigation = (props) => {
             data-target="#bs-example-navbar-collapse-1"
           >
             {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
+            <span className="sr-only">Gezinmeyi Aç/Kapat</span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
@@ -34,7 +34,7 @@ export const Navigation = (props) => {
 </li>
 <li>
   <a href="#about" className="page-scroll">
-    Hakkında
+    Hakkımızda
   </a>
 </li>
 <li>

@@ -4,18 +4,18 @@
     "paragraph": "Profesyonel site yönetimi ile yaşam alanlarınızı daha konforlu ve güvenli hale getiriyoruz. Uzman ekibimizle 7/24 kesintisiz hizmet sunarak, sitenizin tüm ihtiyaçlarını karşılamayı taahhüt ediyoruz."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Profesyonel site yönetimi şirketi olarak, modern yaşam alanlarınızın her yönüyle mükemmel bir şekilde yönetilmesini sağlıyoruz. Deneyimli ve uzman kadromuzla, sitenizin güvenlik, temizlik ve bakım ihtiyaçlarını en üst düzeyde karşılıyoruz. Sürdürülebilir ve yenilikçi yaklaşımlarımızla, sakinlerin konforunu ve memnuniyetini önceliğimiz haline getiriyoruz. Kaliteli hizmet anlayışımız ve müşteri odaklı çözümlerimizle, site yönetiminde yeni bir dönem başlatıyoruz.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Güvenli ve Huzurlu Yaşam",
+    "Uzman Kadro",
+    "Özelleştirilmiş Hizmetler:",
+    "Sürekli İyileştirme"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "7/24 Destek",
+    "Müşteri Memnuniyeti",
+    "Kapsamlı Hizmet Ağı",
+    "Yenilikçi ve Sürdürülebilir"
     ]
   },
   "Gallery": [
@@ -68,72 +68,72 @@
   "Services": [
     {
       "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Kapsamlı Site Yönetimi",
+      "text": "Site yönetiminin tüm yönlerini kapsayan, etkili ve düzenli bir hizmet anlayışı ile yaşam alanınızın değerini artırıyoruz."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Gelişmiş Güvenlik Sistemleri",
+      "text": "Modern ve yüksek teknoloji güvenlik sistemleriyle, site sakinlerinin güvenliğini ve huzurunu en üst düzeyde sağlıyoruz."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Teknik ve Bakım Hizmetleri",
+      "text": "Uzman teknik ekibimiz ile sitenizin tüm elektrik, su ve mekanik sistemlerinin bakım ve onarım hizmetlerini sunuyoruz."
     },
     {
       "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Çevre Dostu Yönetim",
+      "text": "Sürdürülebilir ve çevre dostu yönetim anlayışımızla, yeşil alanların bakımı ve enerji verimliliği konularında öncü çözümler sağlıyoruz."
     },
     {
       "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Acil Durum Yönetimi",
+      "text": "Olası acil durumlar için hızlı ve etkili müdahale planlarıyla, site sakinlerinin güvenliğini her zaman koruyoruz."
     },
     {
       "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "name": "Finansal Yönetim ve Raporlama",
+      "text": "Şeffaf ve etkili finansal yönetim sistemimizle, sitenizin bütçesini en iyi şekilde yönetiyor ve düzenli raporlamalar sunuyoruz."
     }
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Site yönetimindeki profesyonel yaklaşımları sayesinde, yaşam alanımız her zaman temiz ve güvenli. Ekip her zaman ilgili ve yardımsever.\"",
+      "name": "Ahmet Yılmaz"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Sorunlara hızlı ve etkili çözümler getiren bir yönetim ekibi. Her zaman güleryüzlü ve anlayışlılar, bu yüzden onları tercih ediyoruz.\"",
+      "name": "Hakan Kaya"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Sitenin her ihtiyacı düşünülmüş ve titizlikle yönetiliyor. Profesyonel site yönetimi hizmetinden son derece memnunuz.\"",
+      "name": "Mehmet Özcan"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Kaliteli hizmet anlayışları ve sürekli iletişim halinde olmaları mükemmel. Her konuda güvenebileceğiniz bir ekip.\"",
+      "name": "Leyla Demir"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "\"Etkili yönetim ve sürekli iyileştirmeler sayesinde, sitemizde yaşamak bir ayrıcalık haline geldi. Teşekkürler!\"",
+      "name": "Burak Yıldız"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "\"Her zaman yardımcı olan, sorunları hızla çözen bir yönetim ekibimiz var. Hizmet kaliteleri gerçekten takdire şayan.\"",
+      "name": "Zeynep Çelik"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Fatih Ahmet YAZICI",
+      "job": "Kurucu"
     },
     {
       "img": "img/team/02.jpg",
@@ -152,9 +152,9 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "Oğuzlar Mahallesi 1564.Cad No:18  Sincan / Ankara ",
+    "phone": "+905052364302 ",
+    "email": "sfydanismanlik@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +162,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "7/24 İletişim",
+      "text": "Her zaman ulaşılabilir olmamız, sakinlerin ihtiyaç ve taleplerine anında yanıt vermemizi sağlıyor. Etkin iletişim ile her zaman yanınızdayız."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Aktif Duyuru Sistemi",
+      "text": "Güncel bilgileri ve önemli duyuruları hızlı bir şekilde sakinlere ulaştırarak, site içi iletişimi güçlendiriyoruz."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Profesyonel Ekip",
+      "text": "Alanında uzman ekibimiz, sitenizin tüm yönetim süreçlerinde yüksek standartlarda hizmet sunuyor."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Özelleştirilmiş Hizmetler",
+      "text": "Her sitenin kendine özgü ihtiyaçlarına yönelik özelleştirilmiş hizmetler sunarak, yaşam kalitesini artırıyoruz."
     }
   ]
 }
